@@ -77,7 +77,7 @@ airbnb-clone
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/airbnb-clone.git
+git clone https://github.com/(https://github.com/dkeskar717-bot/Airbnb-Project)/airbnb-clone.git
 cd airbnb-clone
 ```
 
